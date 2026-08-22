@@ -665,7 +665,7 @@ http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="IN - UTSAV PLUS" group-title="|AS| INDIA - EU",IN - UTSAV PLUS
-http://line.di-nero.com:80/live/0929c23c9c/845f0a5be6da/281250.ts
+http://11359-given.cdn-o2.me:80/live/0929c23c9c/845f0a5be6da/281250.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN - UTSAV GOLD EU" group-title="|AS| INDIA - EU",IN - UTSAV GOLD EU
 http://line.di-nero.com:80/live/0929c23c9c/845f0a5be6da/737089.ts
 #EXTINF:-1 tvg-id="ZeeTV.uk" tvg-name="IN - ZEE TV EU" group-title="|AS| INDIA - EU",IN - ZEE TV EU
